@@ -132,5 +132,8 @@ ul{
 div{
    margin-bottom: 30px; 
 }
-
-
+.card-block>img{
+   width: 300px;
+   height: 400px;
+   padding: 0 0 20px 100px;
+}
